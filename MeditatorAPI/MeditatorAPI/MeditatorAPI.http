@@ -1,0 +1,6 @@
+@MeditatorAPI_HostAddress = http://localhost:5004
+
+GET {{MeditatorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
